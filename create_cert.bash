@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env/sh bash
 set -e
 
 echo "---------------------"
